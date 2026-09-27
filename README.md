@@ -81,3 +81,9 @@ resource "aws_ecs_task_definition" "backend" {
   ])
 }
 ```
+
+## Author
+
+- **Name:** noelregis718
+- **GitHub:** [noelregis718](https://github.com/noelregis718)
+- **Email:** noelregis718@gmail.com

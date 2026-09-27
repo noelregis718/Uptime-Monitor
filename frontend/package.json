@@ -1,6 +1,7 @@
 {
   "name": "uptime-frontend",
   "private": true,
+  "author": "noelregis718 <noelregis718@gmail.com>",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
